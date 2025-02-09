@@ -1,0 +1,12 @@
+{
+  "name": "property-watcher",
+  "version": "1.0.0",
+  "description": "A lightweight real estate tracking app built on next.js, express, postgres, jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
